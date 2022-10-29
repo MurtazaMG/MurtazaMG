@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MurtazaMG
-- 👀 I’m interested in software engineering and machine learning.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning front end and back end development, including React.
 - 💞️ I’m looking to develop my skills by creating projects and obtain certifications.
 - 📫 How to reach me: Instagram - @murtaza_mg
